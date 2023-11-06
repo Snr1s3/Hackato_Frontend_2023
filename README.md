@@ -1,5 +1,5 @@
 # Rick and Morty API Project by Sunr1s3
 
-![Banner](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.engadget.com%2F2017-08-06-rick-and-morty-quote-search-engine.html&psig=AOvVaw2-eMyXBi-CDBoC0MVQJz9T&ust=1699375741340000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLidr53qr4IDFQAAAAAdAAAAABAJ)
+![Banner](https://s.yimg.com/ny/api/res/1.2/Bt9hZENH_Y1GPA9hljL6LA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTM2MA--/https://o.aolcdn.com/hss/storage/midas/b4e047590eefb111e0489850db3b73cd/205543529/rick-and-morty-szechuan-sauce.jpg)
 
 This project is a simple and interactive way to explore the Rick and Morty universe. It uses the [Rick and Morty API](https://rickandmortyapi.com/) to fetch and display data about the characters, episodes, and locations from the show. Enjoy your journey through the multiverse!
